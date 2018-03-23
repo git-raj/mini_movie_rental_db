@@ -1,6 +1,9 @@
 # mini_movie_rental_db
 PL/SQL db designed for class project.
 
+lamichhaneSaroj_termproject.doc
+--> DB design, query and use cases document.
+
 create_scripts.sql
 --> creates various DB objects viz. tables, views, triggers
 
